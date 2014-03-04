@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dialo",
+				"dialogAlarmInfo"
+			],
+			[
+				"Vie",
+				"ViewBag"
+			],
+			[
+				"link",
+				"linkto	{{#link-to}} {{/link-to}}"
+			],
+			[
+				"Vi",
+				"ViewBag"
+			],
+			[
+				"act",
+				"ActionResult"
+			],
+			[
+				"sf2PHp",
+				"sf2PhpFunction	sf2PhpFunction"
+			],
+			[
+				"sf2php",
+				"sf2PhpFunction	sf2PhpFunction"
+			],
+			[
+				"sf2Php",
+				"sf2PhpFunction	sf2PhpFunction"
+			],
+			[
+				"sf2EntityRe",
+				"sf2EntityRelManyToOne	sf2EntityRelManyToOne"
+			],
+			[
+				"sf2EntityFiel",
+				"sf2EntityFieldDecimal	sf2EntityFieldDecimal"
+			],
+			[
+				"sf2EntityFi",
+				"sf2EntityFieldString	sf2EntityFieldString"
+			],
+			[
+				"sf2En",
+				"sf2EntityIntegerField	sf2EntityIntegerField"
+			],
+			[
+				"blo",
+				"blogPosts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"razo",
+				"Set Syntax: Razor"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"sni",
+				"Snippet: Twig : If"
+			],
+			[
+				"snii",
+				"Snippet: Bootstrap info button"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/c.lsalin/Dropbox/Tecnoap/Oferta Gerencia Houston/20140219_Pretensiones y Beneficios para Octavio.txt",
+		"/C/REPO/tecnoap/oportunidades de negocio/Greenfield Tenaris en Houston. Expansión Tecnoap.txt",
+		"/C/DOTNET/SCC/proyecto/Branches/v2.2.18_bt/view/web.config",
+		"/C/DOTNET/LIN/Trunk/doc/20140213_Datos Servidores LIN.txt",
+		"/C/DOTNET/LIN/Trunk/doc/20140213_Comenzar desarrollos LIN.txt",
+		"/C/DOTNET/SCS/Trunk/doc/notas/20140207_Lectura Documentacion IDP.txt",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/c.lsalin/Desktop/historical/Web.config",
+		"//termxsppapp36/wwwroot/alarms/Web.config",
+		"//termxsppapp36/wwwroot/historical/Web.config",
+		"/C/Users/c.lsalin/Desktop/Paquete Alarmas Trendings/trendings_alarms.html",
+		"/C/Users/c.lsalin/Desktop/trendings_alarms.html",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Scripts/Historical/Alarms.js",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Views/Shared/_Layout.cshtml",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Views/Alarm/Alarmas.cshtml",
+		"//termxsppapp36/wwwroot/alarms/Views/Alarm/Alarmas.cshtml",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Filters/callParameterAlarmsGrid.cs",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Library/Datatable.cs",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Library/Trending.cs",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Views/Alarm/Index.cshtml",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Filters/callParameterAlarmsGrid",
+		"/C/DOTNET/SGR/Site/Layout/Filters/callParameterEstado.cs",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Scripts/jquery-1.8.3.js",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Views/Alarm/VerAlarmInfo.cshtml",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/ViewModels/HistoricoAlarmasViewModel.cs",
+		"/C/DOTNET/SGA/SitioNew/datetimepicker/datetimepicker/uso-datetimepicker.js",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/estandar.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Scripts/Estandar/estandar.js",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Views/Home/Index.cshtml",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Views/Home/VerAlarmInfo.cshtml",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Scripts/AlarmsHistorical/AlarmsHistorical.js",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Controllers/HomeController.cs",
+		"/C/DOTNET/SGA/SitioNew/dataTables.trendings/ready.js",
+		"/C/DOTNET/SGR/Site/Layout/Scripts/JsonAsynchronousCallback.js",
+		"/C/REPO/ternium/Tareas Diarias.txt",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/APPS/SCC/Scripts/20131008_Ajuste CFE.sql",
+		"/C/DOTNET/SGA/SitioNew/datatable.cs",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/alarms.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/layout.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Views/HomeBootstrap/Index.cshtml",
+		"/C/REPO/libros y manuales/redacciones propias/20130604_Notas sobre ASP.NET MVC.txt",
+		"/C/DOTNET/SGR/Doc/modulo programacion/20130725_Notas Taller de Rodillos - Fabricio.txt",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/APPS/SGD/Certificacion Auto MOA Obra/20130729_Notas para formalizar",
+		"/C/DOTNET/SGA/SitioNew/SGD_ESTANDAR/Estandar/Views/Home/Index.cshtml",
+		"/C/REPO/tecnoap/capacitaciones/diplomados/201307_Diplomado en Liderazgo/20130731_Diplomado en Liderazgo - Notas.txt",
+		"/C/REPO/tecnoap/capacitaciones/diplomados/201307_Diplomado en Direccion de Proyectos/20130729_Diplomado en Direccion de Proyectos - Notas.txt",
+		"/C/DOTNET/SGA/SitioNew/tdreyno-iphone-style-checkboxes-v1.0.0-5-g1032aa9/tdreyno-iphone-style-checkboxes-1032aa9/style.css",
+		"/C/DOTNET/SGA/SitioNew/SGD_ESTANDAR/Estandar/Scripts/Estandar/estandar.js",
+		"/C/DOTNET/SGA/SitioNew/SGD_ESTANDAR/Estandar/Scripts/propio.js",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/jquery.treeview.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/jquery.qtip.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/fixedTable.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/dd.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/calendario.css",
+		"/C/DOTNET/SGA/SitioNew/SGD_ESTANDAR/Estandar/Content/Styles/Estandar/dd.css",
+		"/C/DOTNET/SGA/SitioNew/SGD_ESTANDAR/Estandar/Content/Styles/Estandar/fixedTable.css",
+		"/C/DOTNET/TX Layout-Twitter Bootstrap/Site/Layout/Library/datatable.cs",
+		"/C/Users/c.lsalin/Desktop/Reporte Alarmas/Pagina ejemplo/listado-inversiones.js",
+		"/C/Users/c.lsalin/Desktop/Reporte Alarmas/Pagina ejemplo/InversionController.cs",
+		"/C/Users/c.lsalin/Desktop/Reporte Alarmas/Pagina ejemplo/ListadoInversiones.cshtml",
+		"/C/Users/c.lsalin/Desktop/Reporte Alarmas/Pagina ejemplo/jquery.endless-scroll.js",
+		"/C/Users/c.lsalin/Desktop/Reporte Alarmas/Pruebas/20131005_INSERT_iv_histo_alarms_master-un mes.sql",
+		"//termxtgmapp02/DOTNET/PROD/SCC/XML/MenuSuperior.config",
+		"/C/DOTNET/SGR/Doc/testing/integracion/20130903_Integracion N2A-N2B - Bitacora.txt",
+		"/C/Users/c.lsalin/Downloads/winmail.dat",
+		"/C/REPO/tecnoap/capacitaciones/diplomados/201307_ Diplomado en Liderazgo/20130731_Diplomado en Liderazgo - Notas.txt",
+		"//termxtgmapp02/DOTNET/PROD/SCC/web.config",
+		"/C/Users/c.lsalin/Desktop/TxToDo.TODO",
+		"/C/Users/c.lsalin/Desktop/Iconos SGR/Models/PSQ_SGR.edmx",
+		"/C/DOTNET/SGR/Site/Layout/Models/PSQ_SGR.edmx.bk.20130816",
+		"/C/DOTNET/SGR/Doc/modulo programacion/20130816_Integracion Modulo Programacion.txt",
+		"/C/DOTNET/SGR/Site/Layout/Models/PSQ_SGR.edmx",
+		"/C/Users/c.lsalin/Desktop/Iconos SGR/Models/PSQ_SGR.Designer.cs",
+		"/C/DOTNET/SGR/Site/Layout/Models/PSQ_SGR.Designer.cs",
+		"/C/DOTNET/web/scc/view/js/jquery.formatCurrency/jquery.formatCurrency-1.4.0.js",
+		"/C/Users/c.lsalin/Desktop/nuevos.html",
+		"/C/REPO/tecnoap/reuniones/20130730_Salvador Contreras - Feedback desempeño Bernardo Lorini.txt",
+		"/C/REPO/personal/capacitaciones/20130701_Programa de capacitaciones.txt",
+		"/C/REPO/tecnoap/sistemas/tama/20130611_Especificaciones.txt",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/APPS/SGD/HES Masiva/20130619_Notas para desarrollos de HES Masiva.txt",
+		"/C/REPO/tecnoap/reuniones/20130806_Salvador Contreras - Examen N1.txt",
+		"/C/DOTNET/Doc/SRG/modulo programacion/20130725_Notas Taller de Rodillos - Fabricio.txt",
+		"/C/REPO/tecnoap/reuniones/20130801_Ricardo Vargas - Dudas varias.txt",
+		"/C/REPO/libros y manuales/asp.net mvc/Temas Avanzados Net Rosario/Info (Actualizado el 11_12_2012).txt",
+		"//10.210.19.61/scc/PRODUCCION/XML/MenuSuperior.config",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/APPS/SGR/documentacion/modulo programacion/20130725_Notas Taller de Rodillos - Fabricio.txt",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/APPS/SCC/web.config.cambios.txt",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/Servidores/20111216_datos_servers_pesqueria.txt",
+		"/C/DOTNET/web/scc_v2.1.8-d/view/web.config",
+		"/C/DOTNET/web/scc_v2.1.7/view/web.config",
+		"//10.210.19.61/scc/PRODUCCION/web.config",
+		"/C/REPO/programas/EPPlus/EPPlus 3.1.3/readme.txt",
+		"/C/Users/c.lsalin/Desktop/20130702143258_libroAnalista_Pesqueria - TX_Infraestructura y servicios_Infraestructura_P.301.1625.100.01-201305.xlsx",
+		"/C/Users/c.lsalin/Desktop/prueba.html",
+		"/C/REPO/familiares/expatriacion mex 2011/compra casa/20130624_Pendientes.txt",
+		"/C/REPO/familiares/expatriacion mex 2011/compra casa/20130621_Pautas y revisiones.txt",
+		"/C/DOTNET/bd/scc_v2.1.8-m/scc/scc.dbproj",
+		"/C/DOTNET/bd/scc_v2.1.8-m/scc.sln",
+		"/C/Users/c.lsalin/Desktop/sinError.html",
+		"/C/Users/c.lsalin/Desktop/conError.html",
+		"/C/REPO/familiares/documentos/2013_Salarios minimos prestamos en MJ.txt",
+		"/C/REPO/tecnoap/sistemas/tama/20130611_Especificaciones",
+		"/C/DOTNET/web/testProjectMvc1/testProjectMvc1/App_Data/Movies.sdf",
+		"/C/DOTNET/web/scc/scc.sln",
+		"/C/DOTNET/web/scc_v2.1.5/scc.sln",
+		"/C/DOTNET/web/scc_v2.1.7/scc.sln",
+		"/C/PHP/saltos/code/xml/config.xml",
+		"/C/PHP/saltos/readme.txt",
+		"/C/PHP/saltos/code/install/xml/config.xml",
+		"/C/PHP/saltos/code/index.php",
+		"/C/PHP/saltos/code/install/xml.php",
+		"/C/PHP/saltos/code/xml.php",
+		"/C/PHP/saltos/user/xml/datacfg.xml",
+		"/C/PHP/saltos/user/xml/maincfg.xml",
+		"/C/Users/c.lsalin/Desktop/Mancuerna x 5 kg (2)",
+		"/C/DOTNET/web/scc/view/web.config",
+		"/C/REPO/personal/running/alimentacion/20130415_Seguimiento comidas.txt",
+		"/C/Users/c.lsalin/Desktop/Problema con Excel y Regionalizacion en SCC/GridviewExportUtil.vb",
+		"/D/Crack/INFO.txt",
+		"/D/Crack/install.txt",
+		"//hades/soporte/Windows 7 enterprice y office 2010 professional plus/serie.txt",
+		"/C/PHP/symplefy/vendor/composer/ClassLoader.php",
+		"/C/PHP/symplefy/vendor/composer/autoload_real.php",
+		"/C/PHP/symplefy/vendor/autoload.php",
+		"/C/PHP/symplefy/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php",
+		"/C/PHP/symplefy/app/AppKernel.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hidUrlAlarmInfo",
+			"VerAlarms",
+			"int",
+			"hidUrlAlarmInfo",
+			"breadcrumbHeight",
+			"ApplySort",
+			"margin",
+			"tituloPagina",
+			"margin",
+			"divBreadcrumb",
+			"margin",
+			"Contenido",
+			"contenedorFiltroColapsable",
+			"../../Images",
+			"../../Images/Estandar",
+			"siteURL",
+			"inicio",
+			"fht-tbody",
+			"cargarGrilla",
+			"GO",
+			"funcional",
+			"interesado",
+			"obtener_programacion_linea_Result",
+			"obtener_ubicaciones_x_estado_x_linea_Result",
+			"obtener_ubicaciones_x_estado_x_linea",
+			"EntityContainerMapping",
+			"insertar_programacion_linea",
+			"actualizar_programacion_linea",
+			"entityconta",
+			"Mappings",
+			"actualizar_programacion_linea",
+			"StorageModels",
+			"obtener_ubicaciones_x_estado_x_linea",
+			"obtener_programacion_linea_estados",
+			"obtener_programacion_linea",
+			"obtener_programa_linea",
+			"obtener_grupos_rodillos",
+			"obtener_estado_programa_proceso",
+			"obtener_estado_programa_finalizado",
+			"obtener_conjuntos_rodillos",
+			"insertar_programacion_linea",
+			"actualizar_programacion_linea",
+			"obtener_programacion_linea_estados_Result",
+			"obtener_programacion_linea_estados",
+			"obtener_programa_linea",
+			"obtener_grupos_rodillos",
+			"obtener_estado_programa_proceso",
+			"obtener_estado_programa_finalizado",
+			"insertar_programacion_linea",
+			"actualizar_programacion_linea",
+			"obtener_ubicaciones_x_estado_x_linea",
+			"obtener_programacion_linea_estados",
+			"obtener_programacion_linea",
+			"obtener_programa_linea",
+			"obtener_grupos_rodillos",
+			"obtener_estado_programa_proceso",
+			"obtener_conjuntos_rodillos",
+			"insertar_programacion_linea",
+			"-\n",
+			"periodos",
+			"ignor*",
+			"ignor",
+			"ignore",
+			"spLibroAnalistaAbrePeriodo",
+			"ComposerAutoloaderInit4d2f4d5f85789f71313cdea10474926e",
+			"loadClass",
+			"registerNamespace",
+			"registerNAmespace",
+			"globalization",
+			"whichComposer",
+			"checkComposer",
+			"composer",
+			"ComposerAdapter",
+			"$composer",
+			"could not find",
+			"\n     ",
+			"id",
+			"integer",
+			"assert",
+			";\n",
+			"cata_pol",
+			"ComposerAutoloaderInit897e3fc917a5e3385fa77b8987e9456f",
+			"colapsar",
+			"GrillaMaster",
+			"htdocs",
+			"\\u0027"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"images",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "symplefy-core.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
